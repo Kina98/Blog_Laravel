@@ -165,11 +165,7 @@
               </div>
               <div class="card-body">
                 <p class="card-text">
-                Your Content Here ! ... Your Content Here ! ... Your Content Here !...  ...<br />
-                <br /><br /><br /><br /><br /><br />
-                Your Content Here ! ... Your Content Here ! ... Your Content Here ! ...<br />
-                <br /><br /><br /><br /><br /><br /><br />
-				Your Content Here ! ... Your Content Here ! ... Your Content Here ! ...<br />
+                @yield('content')
             </p>
                       <a href="#" class="btn btn-primary">Read More !</a>
               </div>
